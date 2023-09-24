@@ -1,4 +1,4 @@
-# Basic Corporate Comment App
+# Project Web App - Corp Comment
 
 ## Description
 This project is a basic web application developed as a part of a course from [Bytegrad](http://bytegrad.com). The primary goal of this project is to help sharpen fundamental JavaScript skills. The app allows users to submit feedback for corporations.
